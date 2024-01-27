@@ -1,0 +1,62 @@
+
+
+#title {
+  background-color: rgb(82, 205, 109);
+  border-color: rgb(82, 205, 109);
+  color: white;
+  padding: 15px 15px 15px 15px;
+  border-style: solid;
+  margin: 10px;
+  border-radius: 8px;
+  display: inline-block;
+  font-size: 40px;
+}
+
+
+#description {
+  color: rgb(18, 108, 37);
+  font-family: 'Georgia', 'Times New Roman', serif;
+  margin-left: 10px;
+
+}
+
+#form {
+  display: flex;
+  flex-direction: row;
+
+}
+
+#form div,
+#form button{
+  color: rgb(35, 97, 59);
+  margin-left: 10px;
+}
+
+.inputs {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+#user1, #user2 {
+  margin-left: 4px;
+  margin-top: 8px;
+  width: 300px;
+}
+
+#submitbutton {
+  margin-right: 20px;
+  background-color: rgb(82, 205, 109);
+  border-color: rgb(82, 205, 109);
+  color: white;
+  border-radius: 8px;
+  font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+
+
+body {
+  background: linear-gradient(to left, #c9ebe0, white);
+}
