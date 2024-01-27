@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
   ```
-  git clone https://github.com/AliiiceK/SpotifyCompatibility
+  git clone https://github.com/AliiceK/SpotifyCompatibility
   ```
 2. Install NPM packages
   ```
