@@ -5,16 +5,15 @@
   "description": "server folder",
   "main": "index.js",
   "scripts": {
-    "test": "idk"
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "idk"
+    "url": "https://github.com/AliiceK/SpotifyCompatibility"
   },
-  "keywords": [
-    "idk"
-  ],
-  "author": "idk",
+  "author": "Alice Karadjian",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
